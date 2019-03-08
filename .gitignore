@@ -1,2 +1,4 @@
 .ipynb_checkpoint*
 datasets/spam/*
+datasets/flowers/*
+datasets/inception/*
